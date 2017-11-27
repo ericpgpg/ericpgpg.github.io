@@ -4,10 +4,10 @@
 
 ### Roster
 
-- Top: Hauntzer
-- Jungle: MikeYeung
-- Mid: Bjergsen
-- Adc: Zven
-- Supp: Mithy
+Top: Hauntzer
+Jungle: MikeYeung
+Mid: Bjergsen
+Adc: Zven
+Supp: Mithy
 
 
